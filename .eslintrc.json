@@ -77,7 +77,8 @@
           "**/*.spec.js"
         ]
       }
-    ]
+    ],
+    "@typescript-eslint/no-empty-function": "off"
   },
   "settings": {
     "import/resolver": {
